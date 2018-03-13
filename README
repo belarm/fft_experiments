@@ -1,0 +1,4 @@
+Use fft_of_image.py to calculate & store the fourier transform of an image file
+Use show_fft.py to display the results
+
+Or, just use fft_display <imagefile> to do both in one step
